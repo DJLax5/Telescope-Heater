@@ -1,0 +1,21 @@
+Circuit: * C:\Users\FHoch\Documents\Projekte\Telescope-Heater\sim\PWM.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Oct 16 17:55:49 2021
+Total elapsed time: 0.069 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 7670
+traniter = 7657
+tranpoints = 2591
+accept = 2217
+rejected = 374
+matrix size = 18
+fillins = 4
+solver = Normal
+Matrix Compiler1: 770 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.1/0.1
+

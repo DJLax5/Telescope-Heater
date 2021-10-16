@@ -1,0 +1,59 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\FHoch\Documents\Projekte\Telescope-Heater\PCB\TelescopeHeater\TelescopeHeater.PcbDoc
+Date     : 16.10.2021
+Time     : 23:05:47
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=787.402mil) (Preferred=15mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=5.118mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=248.031mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=3.937mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=1.968mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (1.342mil < 1.968mil) Between Arc (2305mil,2211.995mil) on Top Overlay And Pad R7-2(2285mil,2240mil) on Top Layer [Top Overlay] to [Top Solder] clearance [1.342mil]
+Rule Violations :1
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Via (2808.307mil,2914.072mil) from Top Layer to Bottom Aluminium 
+   Violation between Net Antennae: Via (2808.307mil,2984.252mil) from Top Layer to Bottom Aluminium 
+   Violation between Net Antennae: Via (2891.929mil,2913.635mil) from Top Layer to Bottom Aluminium 
+   Violation between Net Antennae: Via (2891.929mil,2984.252mil) from Top Layer to Bottom Aluminium 
+Rule Violations :4
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 5
+Waived Violations : 0
+Time Elapsed        : 00:00:01
