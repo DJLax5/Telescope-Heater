@@ -1,0 +1,88 @@
+Change Component Designator: OldDesignator=C100_USB1 NewDesignator=C100A
+Change Component Designator: OldDesignator=C100_USB2 NewDesignator=C100B
+Change Component Designator: OldDesignator=C101_USB1 NewDesignator=C101A
+Change Component Designator: OldDesignator=C101_USB2 NewDesignator=C101B
+Change Component Designator: OldDesignator=C102_USB1 NewDesignator=C102A
+Change Component Designator: OldDesignator=C102_USB2 NewDesignator=C102B
+Change Component Designator: OldDesignator=C103_USB1 NewDesignator=C103A
+Change Component Designator: OldDesignator=C103_USB2 NewDesignator=C103B
+Change Component Designator: OldDesignator=C104_USB1 NewDesignator=C104A
+Change Component Designator: OldDesignator=C104_USB2 NewDesignator=C104B
+Change Component Designator: OldDesignator=C105_USB1 NewDesignator=C105A
+Change Component Designator: OldDesignator=C105_USB2 NewDesignator=C105B
+Change Component Designator: OldDesignator=C106_USB1 NewDesignator=C106A
+Change Component Designator: OldDesignator=C106_USB2 NewDesignator=C106B
+Change Component Designator: OldDesignator=C107_USB1 NewDesignator=C107A
+Change Component Designator: OldDesignator=C107_USB2 NewDesignator=C107B
+Change Component Designator: OldDesignator=C108_USB1 NewDesignator=C108A
+Change Component Designator: OldDesignator=C108_USB2 NewDesignator=C108B
+Change Component Designator: OldDesignator=F100_USB1 NewDesignator=F100A
+Change Component Designator: OldDesignator=F100_USB2 NewDesignator=F100B
+Change Component Designator: OldDesignator=F101_USB1 NewDesignator=F101A
+Change Component Designator: OldDesignator=F101_USB2 NewDesignator=F101B
+Change Component Designator: OldDesignator=IC100_USB1 NewDesignator=IC100A
+Change Component Designator: OldDesignator=IC100_USB2 NewDesignator=IC100B
+Change Component Designator: OldDesignator=J100_USB1 NewDesignator=J100A
+Change Component Designator: OldDesignator=J100_USB2 NewDesignator=J100B
+Change Component Designator: OldDesignator=J101_USB1 NewDesignator=J101A
+Change Component Designator: OldDesignator=J101_USB2 NewDesignator=J101B
+Change Component Designator: OldDesignator=L100_USB1 NewDesignator=L100A
+Change Component Designator: OldDesignator=L100_USB2 NewDesignator=L100B
+Change Component Designator: OldDesignator=L101_USB1 NewDesignator=L101A
+Change Component Designator: OldDesignator=L101_USB2 NewDesignator=L101B
+Change Component Designator: OldDesignator=LED100_USB1 NewDesignator=LED100A
+Change Component Designator: OldDesignator=LED100_USB2 NewDesignator=LED100B
+Change Component Designator: OldDesignator=LED101_USB1 NewDesignator=LED101A
+Change Component Designator: OldDesignator=LED101_USB2 NewDesignator=LED101B
+Change Component Designator: OldDesignator=R100_USB1 NewDesignator=R100A
+Change Component Designator: OldDesignator=R100_USB2 NewDesignator=R100B
+Change Component Designator: OldDesignator=R101_USB1 NewDesignator=R101A
+Change Component Designator: OldDesignator=R101_USB2 NewDesignator=R101B
+Change Component Designator: OldDesignator=R102_USB1 NewDesignator=R102A
+Change Component Designator: OldDesignator=R102_USB2 NewDesignator=R102B
+Change Component Designator: OldDesignator=R103_USB1 NewDesignator=R103A
+Change Component Designator: OldDesignator=R103_USB2 NewDesignator=R103B
+Change Component Designator: OldDesignator=R104_USB1 NewDesignator=R104A
+Change Component Designator: OldDesignator=R104_USB2 NewDesignator=R104B
+Change Component Designator: OldDesignator=R105_USB1 NewDesignator=R105A
+Change Component Designator: OldDesignator=R105_USB2 NewDesignator=R105B
+Change Component Designator: OldDesignator=R106_USB1 NewDesignator=R106A
+Change Component Designator: OldDesignator=R106_USB2 NewDesignator=R106B
+Change Component Designator: OldDesignator=R107_USB1 NewDesignator=R107A
+Change Component Designator: OldDesignator=R107_USB2 NewDesignator=R107B
+Change Component Designator: OldDesignator=R108_USB1 NewDesignator=R108A
+Change Component Designator: OldDesignator=R108_USB2 NewDesignator=R108B
+Change Component Designator: OldDesignator=R109_USB1 NewDesignator=R109A
+Change Component Designator: OldDesignator=R109_USB2 NewDesignator=R109B
+Change Component Designator: OldDesignator=R110_USB1 NewDesignator=R110A
+Change Component Designator: OldDesignator=R110_USB2 NewDesignator=R110B
+Change Component Designator: OldDesignator=R111_USB1 NewDesignator=R111A
+Change Component Designator: OldDesignator=R111_USB2 NewDesignator=R111B
+Change Net Name : Old Net Name=GND_A_USB1 New Net Name=GND_AA
+Change Net Name : Old Net Name=GND_A_USB2 New Net Name=GND_AB
+Change Net Name : Old Net Name=GND_B_USB1 New Net Name=GND_BA
+Change Net Name : Old Net Name=GND_B_USB2 New Net Name=GND_BB
+Change Net Name : Old Net Name=NetC101_USB1_1 New Net Name=NetC101A_1
+Change Net Name : Old Net Name=NetC101_USB2_1 New Net Name=NetC101B_1
+Change Net Name : Old Net Name=NetC103_USB1_1 New Net Name=NetC103A_1
+Change Net Name : Old Net Name=NetC103_USB2_1 New Net Name=NetC103B_1
+Change Net Name : Old Net Name=NetC104_USB1_1 New Net Name=NetC104A_1
+Change Net Name : Old Net Name=NetC104_USB1_2 New Net Name=NetC104A_2
+Change Net Name : Old Net Name=NetC104_USB2_1 New Net Name=NetC104B_1
+Change Net Name : Old Net Name=NetC104_USB2_2 New Net Name=NetC104B_2
+Change Net Name : Old Net Name=NetC105_USB1_1 New Net Name=NetC105A_1
+Change Net Name : Old Net Name=NetC105_USB2_1 New Net Name=NetC105B_1
+Change Net Name : Old Net Name=NetC107_USB1_1 New Net Name=NetC107A_1
+Change Net Name : Old Net Name=NetC107_USB2_1 New Net Name=NetC107B_1
+Change Net Name : Old Net Name=NetC108_USB1_1 New Net Name=NetC108A_1
+Change Net Name : Old Net Name=NetC108_USB1_2 New Net Name=NetC108A_2
+Change Net Name : Old Net Name=NetC108_USB2_1 New Net Name=NetC108B_1
+Change Net Name : Old Net Name=NetC108_USB2_2 New Net Name=NetC108B_2
+Change Net Name : Old Net Name=NetIC100_USB1_2 New Net Name=NetIC100A_2
+Change Net Name : Old Net Name=NetIC100_USB1_6 New Net Name=NetIC100A_6
+Change Net Name : Old Net Name=NetIC100_USB2_2 New Net Name=NetIC100B_2
+Change Net Name : Old Net Name=NetIC100_USB2_6 New Net Name=NetIC100B_6
+Change Net Name : Old Net Name=NetLED100_USB1_2 New Net Name=NetLED100A_2
+Change Net Name : Old Net Name=NetLED100_USB2_2 New Net Name=NetLED100B_2
+Change Net Name : Old Net Name=NetLED101_USB1_2 New Net Name=NetLED101A_2
+Change Net Name : Old Net Name=NetLED101_USB2_2 New Net Name=NetLED101B_2

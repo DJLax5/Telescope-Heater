@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Main_PDSplitter.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Main_PDSplitter.SchDoc|Designator=USB1|SchDesignator=Repeat(USB,1,2)|FileName=Dual_USB-A.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Dual_USB-A.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main_PDSplitter.SchDoc|Designator=USB2|SchDesignator=Repeat(USB,1,2)|FileName=Dual_USB-A.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Dual_USB-A.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

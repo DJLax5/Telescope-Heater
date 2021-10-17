@@ -1,0 +1,141 @@
+Circuit: * C:\Users\FHoch\Documents\Projekte\Telescope-Heater\sim\Currentsensor.asc
+
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for i1.  Increasing period to 0.2001
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Gmin = 100
+Gmin = 10.7374
+Gmin = 1.15292
+vernier = 0.5
+vernier = 0.666667
+Gmin = 0.4029
+vernier = 0.888888
+vernier = 1
+Gmin = 0.06089
+Gmin = 0.00653801
+Gmin = 0.000702013
+vernier = 0.5
+vernier = 0.25
+Gmin = 0.000204476
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 0.000190956
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+Gmin = 0.000190538
+vernier = 0.00130208
+Gmin = 0.00018998
+vernier = 0.00173611
+vernier = 0.00231481
+Gmin = 0.000189048
+vernier = 0.00308642
+vernier = 0.00411522
+Gmin = 0.000187572
+vernier = 0.00548696
+Gmin = 0.000185272
+vernier = 0.00731595
+vernier = 0.00975459
+Gmin = 0.000181475
+vernier = 0.0130061
+vernier = 0.0173415
+Gmin = 0.000175584
+vernier = 0.023122
+Gmin = 0.000166705
+vernier = 0.0308293
+vernier = 0.0411057
+Gmin = 0.000152821
+vernier = 0.0548076
+vernier = 0.0730768
+Gmin = 0.000133081
+vernier = 0.0974357
+Gmin = 0.00010714
+vernier = 0.129914
+vernier = 0.173219
+Gmin = 7.46485e-005
+vernier = 0.230959
+vernier = 0.307945
+Gmin = 4.22188e-005
+vernier = 0.410593
+Gmin = 1.746e-005
+vernier = 0.547457
+vernier = 0.729942
+Gmin = 4.13627e-006
+vernier = 0.973256
+vernier = 1
+Gmin = 5.12521e-007
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 1.34354e-007
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 2.84091%
+Source Step = 4.73485%
+Source Step = 6.62879%
+Source Step = 8.52273%
+Source Step = 10.4167%
+vernier = 0.09375
+Source Step = 12.8788%
+Source Step = 15.7197%
+Source Step = 18.5606%
+Source Step = 21.4015%
+Source Step = 24.2424%
+vernier = 0.140625
+Source Step = 27.7936%
+Source Step = 32.0549%
+Source Step = 36.3163%
+Source Step = 40.5777%
+Source Step = 44.839%
+vernier = 0.210938
+Source Step = 49.9527%
+Source Step = 56.3447%
+Source Step = 62.7367%
+Source Step = 69.1288%
+Source Step = 75.5208%
+vernier = 0.316406
+Source Step = 82.8717%
+Source Step = 92.4598%
+Source stepping succeeded in finding the operating point.
+
+Heightened Def Con from 0.00102756 to 0.00102756
+Heightened Def Con from 0.199814 to 0.199814
+Heightened Def Con from 0.201128 to 0.201128
+Heightened Def Con from 0.398791 to 0.398791
+Heightened Def Con from 0.401226 to 0.401226
+Heightened Def Con from 0.401433 to 0.401433
+
+Date: Sun Oct 17 13:22:36 2021
+Total elapsed time: 0.855 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 28007
+traniter = 23697
+tranpoints = 5917
+accept = 4643
+rejected = 1280
+matrix size = 128
+fillins = 184
+solver = Normal
+Thread vector: 10.6/5.5[3] 5.0/2.5[3] 2.7/2.0[3] 0.7/1.5[1]  2592/500
+Matrix Compiler1: 16.41 KB object code size  7.4/4.0/[1.7]
+Matrix Compiler2: 13.86 KB object code size  1.4/2.1/[0.8]
+

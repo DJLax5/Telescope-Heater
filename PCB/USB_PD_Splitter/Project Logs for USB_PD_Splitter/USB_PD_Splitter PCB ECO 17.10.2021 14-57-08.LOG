@@ -1,0 +1,538 @@
+Added Component: Designator=C1(0603_C)
+Add component (AddParameter): Name = "Designation"; Value = "0603 0.1 uF 16 V ±10% Tolerance X7R SMT Multilayer Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "n.b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(0603_C)
+Add component (AddParameter): Name = "Value"; Value = "n.b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPAE_4x5.4)
+Add component (AddParameter): Name = "Value"; Value = "10µ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPAE_4x5.4)
+Add component (AddParameter): Name = "Value"; Value = "n.b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(0603_C)
+Add component (AddParameter): Name = "Designation"; Value = "0603 0.1 uF 16 V ±10% Tolerance X7R SMT Multilayer Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "n.b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(0603_C)
+Add component (AddParameter): Name = "Value"; Value = "n.b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(0603_C)
+Add component (AddParameter): Name = "Designation"; Value = "0603 0.1 uF 16 V ±10% Tolerance X7R SMT Multilayer Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "n.b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(0603_C)
+Add component (AddParameter): Name = "Value"; Value = "n.b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(0603_C)
+Add component (AddParameter): Name = "Designation"; Value = "0603 0.1 uF 16 V ±10% Tolerance X7R SMT Multilayer Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "n.b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(0603_C)
+Add component (AddParameter): Name = "Value"; Value = "n.b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAPAE_4x5.4)
+Add component (AddParameter): Name = "Value"; Value = "n.b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C100_USB1(0603_C)
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C100_USB2(0603_C)
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C101_USB1(0603_C)
+Add component (AddParameter): Name = "Value"; Value = "2.2p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C101_USB2(0603_C)
+Add component (AddParameter): Name = "Value"; Value = "2.2p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C102_USB1(0603_C)
+Add component (AddParameter): Name = "Value"; Value = "1n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C102_USB2(0603_C)
+Add component (AddParameter): Name = "Value"; Value = "1n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C103_USB1(CAPAE_5x5.4)
+Add component (AddParameter): Name = "Value"; Value = "47u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C103_USB2(CAPAE_5x5.4)
+Add component (AddParameter): Name = "Value"; Value = "47u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C104_USB1(0603_C)
+Add component (AddParameter): Name = "Value"; Value = "2.2p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C104_USB2(0603_C)
+Add component (AddParameter): Name = "Value"; Value = "2.2p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C105_USB1(0603_C)
+Add component (AddParameter): Name = "Value"; Value = "2.2p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C105_USB2(0603_C)
+Add component (AddParameter): Name = "Value"; Value = "2.2p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C106_USB1(0603_C)
+Add component (AddParameter): Name = "Value"; Value = "1n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C106_USB2(0603_C)
+Add component (AddParameter): Name = "Value"; Value = "1n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C107_USB1(CAPAE_5x5.4)
+Add component (AddParameter): Name = "Value"; Value = "47u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C107_USB2(CAPAE_5x5.4)
+Add component (AddParameter): Name = "Value"; Value = "47u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C108_USB1(0603_C)
+Add component (AddParameter): Name = "Value"; Value = "2.2p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C108_USB2(0603_C)
+Add component (AddParameter): Name = "Value"; Value = "2.2p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=D1(MINIMELF-SOD80)
+Add component (AddParameter): Name = "Voltage"; Value = "5,6V"; VariantName = "[No Variations]"
+Added Component: Designator=D2(MINIMELF-SOD80)
+Add component (AddParameter): Name = "Voltage"; Value = "5,6V"; VariantName = "[No Variations]"
+Added Component: Designator=F100_USB1(0603_Fuse)
+Add component (AddParameter): Name = "Value"; Value = "2A"; VariantName = "[No Variations]"
+Added Component: Designator=F100_USB2(0603_Fuse)
+Add component (AddParameter): Name = "Value"; Value = "2A"; VariantName = "[No Variations]"
+Added Component: Designator=F101_USB1(0603_Fuse)
+Add component (AddParameter): Name = "Value"; Value = "2A"; VariantName = "[No Variations]"
+Added Component: Designator=F101_USB2(0603_Fuse)
+Add component (AddParameter): Name = "Value"; Value = "2A"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOT223)
+Add component (AddParameter): Name = "Designation"; Value = "Low Dropout Regulators 5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Id"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(SOT223)
+Add component (AddParameter): Name = "Designation"; Value = "Low Dropout Regulators 5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Id"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Added Component: Designator=IC3(SOT223)
+Add component (AddParameter): Name = "Designation"; Value = "Low Dropout Regulators 5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Id"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Added Component: Designator=IC4(SOT223)
+Add component (AddParameter): Name = "Designation"; Value = "Low Dropout Regulators 5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Id"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Added Component: Designator=IC100_USB1(SOT23-8)
+Added Component: Designator=IC100_USB2(SOT23-8)
+Added Component: Designator=J1(PHOE-1755736-2_V)
+Add component (AddParameter): Name = "Colour"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Content"; Value = "250pc(s)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.mouser.com/ds/2/324/ItemDetail_1755736-921028.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Apr-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Industrial packaging"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part No."; Value = "1755736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.phoenixcontact.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MSTBVA2,5/2-G-5,08"; VariantName = "[No Variations]"
+Added Component: Designator=J100_USB1(61400416021)
+Add component (AddParameter): Name = "Connector Type"; Value = "USB2.0TypeA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/61400416021.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40to105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "61400416021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61400416021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "30VAC"; VariantName = "[No Variations]"
+Added Component: Designator=J100_USB2(61400416021)
+Add component (AddParameter): Name = "Connector Type"; Value = "USB2.0TypeA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/61400416021.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40to105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "61400416021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61400416021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "30VAC"; VariantName = "[No Variations]"
+Added Component: Designator=J101_USB1(61400416021)
+Add component (AddParameter): Name = "Connector Type"; Value = "USB2.0TypeA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/61400416021.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40to105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "61400416021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61400416021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "30VAC"; VariantName = "[No Variations]"
+Added Component: Designator=J101_USB2(61400416021)
+Add component (AddParameter): Name = "Connector Type"; Value = "USB2.0TypeA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/61400416021.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40to105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "61400416021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61400416021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "30VAC"; VariantName = "[No Variations]"
+Added Component: Designator=L1(0603_L)
+Add component (AddParameter): Name = "EBS_Nummer"; Value = "10111"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://ebs.eti.kit.edu/Artikel/Detailansicht/10111"; VariantName = "[No Variations]"
+Added Component: Designator=L2(0603_L)
+Add component (AddParameter): Name = "EBS_Nummer"; Value = "10111"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://ebs.eti.kit.edu/Artikel/Detailansicht/10111"; VariantName = "[No Variations]"
+Added Component: Designator=L3(0603_L)
+Add component (AddParameter): Name = "EBS_Nummer"; Value = "10111"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://ebs.eti.kit.edu/Artikel/Detailansicht/10111"; VariantName = "[No Variations]"
+Added Component: Designator=L4(0603_L)
+Add component (AddParameter): Name = "EBS_Nummer"; Value = "10111"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://ebs.eti.kit.edu/Artikel/Detailansicht/10111"; VariantName = "[No Variations]"
+Added Component: Designator=L100_USB1(0603_L)
+Add component (AddParameter): Name = "EBS_Nummer"; Value = "10111"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://ebs.eti.kit.edu/Artikel/Detailansicht/10111"; VariantName = "[No Variations]"
+Added Component: Designator=L100_USB2(0603_L)
+Add component (AddParameter): Name = "EBS_Nummer"; Value = "10111"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://ebs.eti.kit.edu/Artikel/Detailansicht/10111"; VariantName = "[No Variations]"
+Added Component: Designator=L101_USB1(0603_L)
+Add component (AddParameter): Name = "EBS_Nummer"; Value = "10111"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://ebs.eti.kit.edu/Artikel/Detailansicht/10111"; VariantName = "[No Variations]"
+Added Component: Designator=L101_USB2(0603_L)
+Add component (AddParameter): Name = "EBS_Nummer"; Value = "10111"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://ebs.eti.kit.edu/Artikel/Detailansicht/10111"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(0603_LED)
+Add component (AddParameter): Name = "Color"; Value = "Orange"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(0603_LED)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Added Component: Designator=LED100_USB1(0603_LED)
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=LED100_USB2(0603_LED)
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=LED101_USB1(0603_LED)
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=LED101_USB2(0603_LED)
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "6.8k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "680"; VariantName = "[No Variations]"
+Added Component: Designator=R100_USB1(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "6.8k"; VariantName = "[No Variations]"
+Added Component: Designator=R100_USB2(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "6.8k"; VariantName = "[No Variations]"
+Added Component: Designator=R101_USB1(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "47k"; VariantName = "[No Variations]"
+Added Component: Designator=R101_USB2(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "47k"; VariantName = "[No Variations]"
+Added Component: Designator=R102_USB1(2512_R)
+Add component (AddParameter): Name = "Value"; Value = "0.18"; VariantName = "[No Variations]"
+Added Component: Designator=R102_USB2(2512_R)
+Add component (AddParameter): Name = "Value"; Value = "0.18"; VariantName = "[No Variations]"
+Added Component: Designator=R103_USB1(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "33"; VariantName = "[No Variations]"
+Added Component: Designator=R103_USB2(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "33"; VariantName = "[No Variations]"
+Added Component: Designator=R104_USB1(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R104_USB2(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R105_USB1(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R105_USB2(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R106_USB1(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "6.8k"; VariantName = "[No Variations]"
+Added Component: Designator=R106_USB2(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "6.8k"; VariantName = "[No Variations]"
+Added Component: Designator=R107_USB1(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "47k"; VariantName = "[No Variations]"
+Added Component: Designator=R107_USB2(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "47k"; VariantName = "[No Variations]"
+Added Component: Designator=R108_USB1(2512_R)
+Add component (AddParameter): Name = "Value"; Value = "0.18"; VariantName = "[No Variations]"
+Added Component: Designator=R108_USB2(2512_R)
+Add component (AddParameter): Name = "Value"; Value = "0.18"; VariantName = "[No Variations]"
+Added Component: Designator=R109_USB1(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "33"; VariantName = "[No Variations]"
+Added Component: Designator=R109_USB2(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "33"; VariantName = "[No Variations]"
+Added Component: Designator=R110_USB1(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R110_USB2(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R111_USB1(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R111_USB2(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V_A1 Pin=C100_USB1-2
+Added Pin To Net: NetName=+5V_A1 Pin=F100_USB1-2
+Added Pin To Net: NetName=+5V_A1 Pin=F101_USB1-2
+Added Pin To Net: NetName=+5V_A1 Pin=IC100_USB1-8
+Added Pin To Net: NetName=+5V_A1 Pin=L1-2
+Added Pin To Net: NetName=+5V_A1 Pin=L2-2
+Added Pin To Net: NetName=+5V_A1 Pin=R100_USB1-2
+Added Pin To Net: NetName=+5V_A1 Pin=R101_USB1-2
+Added Pin To Net: NetName=+5V_A1 Pin=R106_USB1-2
+Added Pin To Net: NetName=+5V_A1 Pin=R107_USB1-2
+Added Net: Name=+5V_A1
+Added Pin To Net: NetName=+5V_A2 Pin=C100_USB2-2
+Added Pin To Net: NetName=+5V_A2 Pin=F100_USB2-2
+Added Pin To Net: NetName=+5V_A2 Pin=F101_USB2-2
+Added Pin To Net: NetName=+5V_A2 Pin=IC100_USB2-8
+Added Pin To Net: NetName=+5V_A2 Pin=L3-2
+Added Pin To Net: NetName=+5V_A2 Pin=L4-2
+Added Pin To Net: NetName=+5V_A2 Pin=R100_USB2-2
+Added Pin To Net: NetName=+5V_A2 Pin=R101_USB2-2
+Added Pin To Net: NetName=+5V_A2 Pin=R106_USB2-2
+Added Pin To Net: NetName=+5V_A2 Pin=R107_USB2-2
+Added Net: Name=+5V_A2
+Added Pin To Net: NetName=+5V Pin=C2-1
+Added Pin To Net: NetName=+5V Pin=C4-1
+Added Pin To Net: NetName=+5V Pin=C6-1
+Added Pin To Net: NetName=+5V Pin=D2-2
+Added Pin To Net: NetName=+5V Pin=IC1-2
+Added Pin To Net: NetName=+5V Pin=IC1-4
+Added Pin To Net: NetName=+5V Pin=IC2-2
+Added Pin To Net: NetName=+5V Pin=IC2-4
+Added Pin To Net: NetName=+5V Pin=L1-1
+Added Pin To Net: NetName=+5V Pin=L2-1
+Added Pin To Net: NetName=+5V Pin=R1-1
+Added Pin To Net: NetName=+5V Pin=R2-2
+Added Pin To Net: NetName=+5V Pin=R3-1
+Added Net: Name=+5V
+Added Pin To Net: NetName=GND_A_USB1 Pin=C101_USB1-2
+Added Pin To Net: NetName=GND_A_USB1 Pin=C102_USB1-2
+Added Pin To Net: NetName=GND_A_USB1 Pin=C103_USB1-2
+Added Pin To Net: NetName=GND_A_USB1 Pin=J100_USB1-Shell
+Added Pin To Net: NetName=GND_A_USB1 Pin=J100_USB1-Shell
+Added Pin To Net: NetName=GND_A_USB1 Pin=R102_USB1-1
+Added Pin To Net: NetName=GND_A_USB1 Pin=R103_USB1-1
+Added Pin To Net: NetName=GND_A_USB1 Pin=R105_USB1-1
+Added Net: Name=GND_A_USB1
+Added Pin To Net: NetName=GND_A_USB2 Pin=C101_USB2-2
+Added Pin To Net: NetName=GND_A_USB2 Pin=C102_USB2-2
+Added Pin To Net: NetName=GND_A_USB2 Pin=C103_USB2-2
+Added Pin To Net: NetName=GND_A_USB2 Pin=J100_USB2-Shell
+Added Pin To Net: NetName=GND_A_USB2 Pin=J100_USB2-Shell
+Added Pin To Net: NetName=GND_A_USB2 Pin=R102_USB2-1
+Added Pin To Net: NetName=GND_A_USB2 Pin=R103_USB2-1
+Added Pin To Net: NetName=GND_A_USB2 Pin=R105_USB2-1
+Added Net: Name=GND_A_USB2
+Added Pin To Net: NetName=GND_B_USB1 Pin=C105_USB1-2
+Added Pin To Net: NetName=GND_B_USB1 Pin=C106_USB1-2
+Added Pin To Net: NetName=GND_B_USB1 Pin=C107_USB1-2
+Added Pin To Net: NetName=GND_B_USB1 Pin=J101_USB1-Shell
+Added Pin To Net: NetName=GND_B_USB1 Pin=J101_USB1-Shell
+Added Pin To Net: NetName=GND_B_USB1 Pin=R108_USB1-1
+Added Pin To Net: NetName=GND_B_USB1 Pin=R109_USB1-1
+Added Pin To Net: NetName=GND_B_USB1 Pin=R111_USB1-1
+Added Net: Name=GND_B_USB1
+Added Pin To Net: NetName=GND_B_USB2 Pin=C105_USB2-2
+Added Pin To Net: NetName=GND_B_USB2 Pin=C106_USB2-2
+Added Pin To Net: NetName=GND_B_USB2 Pin=C107_USB2-2
+Added Pin To Net: NetName=GND_B_USB2 Pin=J101_USB2-Shell
+Added Pin To Net: NetName=GND_B_USB2 Pin=J101_USB2-Shell
+Added Pin To Net: NetName=GND_B_USB2 Pin=R108_USB2-1
+Added Pin To Net: NetName=GND_B_USB2 Pin=R109_USB2-1
+Added Pin To Net: NetName=GND_B_USB2 Pin=R111_USB2-1
+Added Net: Name=GND_B_USB2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C100_USB1-1
+Added Pin To Net: NetName=GND Pin=C100_USB2-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=IC2-1
+Added Pin To Net: NetName=GND Pin=IC3-1
+Added Pin To Net: NetName=GND Pin=IC4-1
+Added Pin To Net: NetName=GND Pin=IC100_USB1-4
+Added Pin To Net: NetName=GND Pin=IC100_USB2-4
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED2-1
+Added Pin To Net: NetName=GND Pin=R105_USB1-2
+Added Pin To Net: NetName=GND Pin=R105_USB2-2
+Added Pin To Net: NetName=GND Pin=R111_USB1-2
+Added Pin To Net: NetName=GND Pin=R111_USB2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=C10-1
+Added Pin To Net: NetName=NetC8_1 Pin=C11-1
+Added Pin To Net: NetName=NetC8_1 Pin=IC3-2
+Added Pin To Net: NetName=NetC8_1 Pin=IC3-4
+Added Pin To Net: NetName=NetC8_1 Pin=IC4-2
+Added Pin To Net: NetName=NetC8_1 Pin=IC4-4
+Added Pin To Net: NetName=NetC8_1 Pin=L3-1
+Added Pin To Net: NetName=NetC8_1 Pin=L4-1
+Added Pin To Net: NetName=NetC8_1 Pin=R3-2
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC101_USB1_1 Pin=C101_USB1-1
+Added Pin To Net: NetName=NetC101_USB1_1 Pin=C102_USB1-1
+Added Pin To Net: NetName=NetC101_USB1_1 Pin=J100_USB1-4
+Added Pin To Net: NetName=NetC101_USB1_1 Pin=L100_USB1-1
+Added Pin To Net: NetName=NetC101_USB1_1 Pin=R102_USB1-2
+Added Net: Name=NetC101_USB1_1
+Added Pin To Net: NetName=NetC101_USB2_1 Pin=C101_USB2-1
+Added Pin To Net: NetName=NetC101_USB2_1 Pin=C102_USB2-1
+Added Pin To Net: NetName=NetC101_USB2_1 Pin=J100_USB2-4
+Added Pin To Net: NetName=NetC101_USB2_1 Pin=L100_USB2-1
+Added Pin To Net: NetName=NetC101_USB2_1 Pin=R102_USB2-2
+Added Net: Name=NetC101_USB2_1
+Added Pin To Net: NetName=NetC103_USB1_1 Pin=C103_USB1-1
+Added Pin To Net: NetName=NetC103_USB1_1 Pin=F100_USB1-1
+Added Pin To Net: NetName=NetC103_USB1_1 Pin=J100_USB1-1
+Added Net: Name=NetC103_USB1_1
+Added Pin To Net: NetName=NetC103_USB2_1 Pin=C103_USB2-1
+Added Pin To Net: NetName=NetC103_USB2_1 Pin=F100_USB2-1
+Added Pin To Net: NetName=NetC103_USB2_1 Pin=J100_USB2-1
+Added Net: Name=NetC103_USB2_1
+Added Pin To Net: NetName=NetC104_USB1_1 Pin=C104_USB1-1
+Added Pin To Net: NetName=NetC104_USB1_1 Pin=IC100_USB1-1
+Added Pin To Net: NetName=NetC104_USB1_1 Pin=LED100_USB1-1
+Added Pin To Net: NetName=NetC104_USB1_1 Pin=R104_USB1-2
+Added Net: Name=NetC104_USB1_1
+Added Pin To Net: NetName=NetC104_USB1_2 Pin=C104_USB1-2
+Added Pin To Net: NetName=NetC104_USB1_2 Pin=IC100_USB1-3
+Added Pin To Net: NetName=NetC104_USB1_2 Pin=R101_USB1-1
+Added Pin To Net: NetName=NetC104_USB1_2 Pin=R103_USB1-2
+Added Pin To Net: NetName=NetC104_USB1_2 Pin=R104_USB1-1
+Added Net: Name=NetC104_USB1_2
+Added Pin To Net: NetName=NetC104_USB2_1 Pin=C104_USB2-1
+Added Pin To Net: NetName=NetC104_USB2_1 Pin=IC100_USB2-1
+Added Pin To Net: NetName=NetC104_USB2_1 Pin=LED100_USB2-1
+Added Pin To Net: NetName=NetC104_USB2_1 Pin=R104_USB2-2
+Added Net: Name=NetC104_USB2_1
+Added Pin To Net: NetName=NetC104_USB2_2 Pin=C104_USB2-2
+Added Pin To Net: NetName=NetC104_USB2_2 Pin=IC100_USB2-3
+Added Pin To Net: NetName=NetC104_USB2_2 Pin=R101_USB2-1
+Added Pin To Net: NetName=NetC104_USB2_2 Pin=R103_USB2-2
+Added Pin To Net: NetName=NetC104_USB2_2 Pin=R104_USB2-1
+Added Net: Name=NetC104_USB2_2
+Added Pin To Net: NetName=NetC105_USB1_1 Pin=C105_USB1-1
+Added Pin To Net: NetName=NetC105_USB1_1 Pin=C106_USB1-1
+Added Pin To Net: NetName=NetC105_USB1_1 Pin=J101_USB1-4
+Added Pin To Net: NetName=NetC105_USB1_1 Pin=L101_USB1-1
+Added Pin To Net: NetName=NetC105_USB1_1 Pin=R108_USB1-2
+Added Net: Name=NetC105_USB1_1
+Added Pin To Net: NetName=NetC105_USB2_1 Pin=C105_USB2-1
+Added Pin To Net: NetName=NetC105_USB2_1 Pin=C106_USB2-1
+Added Pin To Net: NetName=NetC105_USB2_1 Pin=J101_USB2-4
+Added Pin To Net: NetName=NetC105_USB2_1 Pin=L101_USB2-1
+Added Pin To Net: NetName=NetC105_USB2_1 Pin=R108_USB2-2
+Added Net: Name=NetC105_USB2_1
+Added Pin To Net: NetName=NetC107_USB1_1 Pin=C107_USB1-1
+Added Pin To Net: NetName=NetC107_USB1_1 Pin=F101_USB1-1
+Added Pin To Net: NetName=NetC107_USB1_1 Pin=J101_USB1-1
+Added Net: Name=NetC107_USB1_1
+Added Pin To Net: NetName=NetC107_USB2_1 Pin=C107_USB2-1
+Added Pin To Net: NetName=NetC107_USB2_1 Pin=F101_USB2-1
+Added Pin To Net: NetName=NetC107_USB2_1 Pin=J101_USB2-1
+Added Net: Name=NetC107_USB2_1
+Added Pin To Net: NetName=NetC108_USB1_1 Pin=C108_USB1-1
+Added Pin To Net: NetName=NetC108_USB1_1 Pin=IC100_USB1-7
+Added Pin To Net: NetName=NetC108_USB1_1 Pin=LED101_USB1-1
+Added Pin To Net: NetName=NetC108_USB1_1 Pin=R110_USB1-2
+Added Net: Name=NetC108_USB1_1
+Added Pin To Net: NetName=NetC108_USB1_2 Pin=C108_USB1-2
+Added Pin To Net: NetName=NetC108_USB1_2 Pin=IC100_USB1-5
+Added Pin To Net: NetName=NetC108_USB1_2 Pin=R107_USB1-1
+Added Pin To Net: NetName=NetC108_USB1_2 Pin=R109_USB1-2
+Added Pin To Net: NetName=NetC108_USB1_2 Pin=R110_USB1-1
+Added Net: Name=NetC108_USB1_2
+Added Pin To Net: NetName=NetC108_USB2_1 Pin=C108_USB2-1
+Added Pin To Net: NetName=NetC108_USB2_1 Pin=IC100_USB2-7
+Added Pin To Net: NetName=NetC108_USB2_1 Pin=LED101_USB2-1
+Added Pin To Net: NetName=NetC108_USB2_1 Pin=R110_USB2-2
+Added Net: Name=NetC108_USB2_1
+Added Pin To Net: NetName=NetC108_USB2_2 Pin=C108_USB2-2
+Added Pin To Net: NetName=NetC108_USB2_2 Pin=IC100_USB2-5
+Added Pin To Net: NetName=NetC108_USB2_2 Pin=R107_USB2-1
+Added Pin To Net: NetName=NetC108_USB2_2 Pin=R109_USB2-2
+Added Pin To Net: NetName=NetC108_USB2_2 Pin=R110_USB2-1
+Added Net: Name=NetC108_USB2_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R4-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetIC100_USB1_2 Pin=IC100_USB1-2
+Added Pin To Net: NetName=NetIC100_USB1_2 Pin=L100_USB1-2
+Added Net: Name=NetIC100_USB1_2
+Added Pin To Net: NetName=NetIC100_USB1_6 Pin=IC100_USB1-6
+Added Pin To Net: NetName=NetIC100_USB1_6 Pin=L101_USB1-2
+Added Net: Name=NetIC100_USB1_6
+Added Pin To Net: NetName=NetIC100_USB2_2 Pin=IC100_USB2-2
+Added Pin To Net: NetName=NetIC100_USB2_2 Pin=L100_USB2-2
+Added Net: Name=NetIC100_USB2_2
+Added Pin To Net: NetName=NetIC100_USB2_6 Pin=IC100_USB2-6
+Added Pin To Net: NetName=NetIC100_USB2_6 Pin=L101_USB2-2
+Added Net: Name=NetIC100_USB2_6
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R2-1
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R4-1
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetLED100_USB1_2 Pin=LED100_USB1-2
+Added Pin To Net: NetName=NetLED100_USB1_2 Pin=R100_USB1-1
+Added Net: Name=NetLED100_USB1_2
+Added Pin To Net: NetName=NetLED100_USB2_2 Pin=LED100_USB2-2
+Added Pin To Net: NetName=NetLED100_USB2_2 Pin=R100_USB2-1
+Added Net: Name=NetLED100_USB2_2
+Added Pin To Net: NetName=NetLED101_USB1_2 Pin=LED101_USB1-2
+Added Pin To Net: NetName=NetLED101_USB1_2 Pin=R106_USB1-1
+Added Net: Name=NetLED101_USB1_2
+Added Pin To Net: NetName=NetLED101_USB2_2 Pin=LED101_USB2-2
+Added Pin To Net: NetName=NetLED101_USB2_2 Pin=R106_USB2-1
+Added Net: Name=NetLED101_USB2_2
+Added Pin To Net: NetName=VIN Pin=C1-1
+Added Pin To Net: NetName=VIN Pin=C3-1
+Added Pin To Net: NetName=VIN Pin=C5-1
+Added Pin To Net: NetName=VIN Pin=C7-1
+Added Pin To Net: NetName=VIN Pin=C9-1
+Added Pin To Net: NetName=VIN Pin=D1-2
+Added Pin To Net: NetName=VIN Pin=IC1-3
+Added Pin To Net: NetName=VIN Pin=IC2-3
+Added Pin To Net: NetName=VIN Pin=IC3-3
+Added Pin To Net: NetName=VIN Pin=IC4-3
+Added Pin To Net: NetName=VIN Pin=J1-1
+Added Pin To Net: NetName=VIN Pin=R1-2
+Added Net: Name=VIN
+Added Class: Name=Main_PDSplitter
+Added Class: Name=USB1
+Added Class: Name=USB2
+Added Class: Name=+5V_A[1..2]
+Added Class: Name=Dual_USB-A
+Added Room: Name=Main_PDSplitter
+Added Room: Name=USB1
+Added Room: Name=USB2
