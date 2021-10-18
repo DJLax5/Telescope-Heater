@@ -1,0 +1,127 @@
+Change Component Comment : Designator=J1 Old Comment=3 New Comment=1755736
+Added Component: Designator=Logo_FH(Logo FH)
+Added Component: Designator=R112A(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "n.b."; VariantName = "[No Variations]"
+Added Component: Designator=R112B(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "n.b."; VariantName = "[No Variations]"
+Added Component: Designator=R113A(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "n.b."; VariantName = "[No Variations]"
+Added Component: Designator=R113B(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "n.b."; VariantName = "[No Variations]"
+Added Component: Designator=R114A(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "n.b."; VariantName = "[No Variations]"
+Added Component: Designator=R114B(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "n.b."; VariantName = "[No Variations]"
+Added Component: Designator=R115A(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "n.b."; VariantName = "[No Variations]"
+Added Component: Designator=R115B(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "n.b."; VariantName = "[No Variations]"
+Added Component: Designator=R116A(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "n.b."; VariantName = "[No Variations]"
+Added Component: Designator=R116B(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "n.b."; VariantName = "[No Variations]"
+Added Component: Designator=R117A(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "n.b."; VariantName = "[No Variations]"
+Added Component: Designator=R117B(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "n.b."; VariantName = "[No Variations]"
+Added Component: Designator=R118A(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "n.b."; VariantName = "[No Variations]"
+Added Component: Designator=R118B(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "n.b."; VariantName = "[No Variations]"
+Added Component: Designator=R119A(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "n.b."; VariantName = "[No Variations]"
+Added Component: Designator=R119B(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "n.b."; VariantName = "[No Variations]"
+Added Component: Designator=R120A(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "n.b."; VariantName = "[No Variations]"
+Added Component: Designator=R120B(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "n.b."; VariantName = "[No Variations]"
+Added Component: Designator=R121A(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "n.b."; VariantName = "[No Variations]"
+Added Component: Designator=R121B(0603_R)
+Add component (AddParameter): Name = "Value"; Value = "n.b."; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Logo_FH-1
+Added Pin To Net: NetName=GND Pin=Logo_FH-2
+Added Pin To Net: NetName=GND Pin=Logo_FH-3
+Added Pin To Net: NetName=GND Pin=Logo_FH-4
+Added Pin To Net: NetName=NetC103A_1 Pin=R112A-2
+Added Pin To Net: NetName=NetC103B_1 Pin=R112B-2
+Added Pin To Net: NetName=GND Pin=R113A-2
+Added Pin To Net: NetName=GND Pin=R113B-2
+Added Pin To Net: NetName=NetC103A_1 Pin=R115A-2
+Added Pin To Net: NetName=NetC103B_1 Pin=R115B-2
+Added Pin To Net: NetName=GND Pin=R116A-2
+Added Pin To Net: NetName=GND Pin=R116B-2
+Added Pin To Net: NetName=NetC107A_1 Pin=R117A-2
+Added Pin To Net: NetName=NetC107B_1 Pin=R117B-2
+Added Pin To Net: NetName=GND Pin=R118A-2
+Added Pin To Net: NetName=GND Pin=R118B-2
+Added Pin To Net: NetName=NetC107A_1 Pin=R120A-2
+Added Pin To Net: NetName=NetC107B_1 Pin=R120B-2
+Added Pin To Net: NetName=GND Pin=R121A-2
+Added Pin To Net: NetName=GND Pin=R121B-2
+Change Net Name : Old Net Name=NetC103A_1 New Net Name=5V_FUSED_TOPA
+Change Net Name : Old Net Name=NetC103B_1 New Net Name=5V_FUSED_TOPB
+Change Net Name : Old Net Name=NetC107A_1 New Net Name=5V_FUSED_BOTA
+Change Net Name : Old Net Name=NetC107B_1 New Net Name=5V_FUSED_BOTB
+Added Pin To Net: NetName=D+BOTA Pin=J101A-3
+Added Pin To Net: NetName=D+BOTA Pin=R117A-1
+Added Pin To Net: NetName=D+BOTA Pin=R118A-1
+Added Pin To Net: NetName=D+BOTA Pin=R119A-1
+Added Net: Name=D+BOTA
+Added Pin To Net: NetName=D+BOTB Pin=J101B-3
+Added Pin To Net: NetName=D+BOTB Pin=R117B-1
+Added Pin To Net: NetName=D+BOTB Pin=R118B-1
+Added Pin To Net: NetName=D+BOTB Pin=R119B-1
+Added Net: Name=D+BOTB
+Added Pin To Net: NetName=D+TOPA Pin=J100A-3
+Added Pin To Net: NetName=D+TOPA Pin=R112A-1
+Added Pin To Net: NetName=D+TOPA Pin=R113A-1
+Added Pin To Net: NetName=D+TOPA Pin=R114A-1
+Added Net: Name=D+TOPA
+Added Pin To Net: NetName=D+TOPB Pin=J100B-3
+Added Pin To Net: NetName=D+TOPB Pin=R112B-1
+Added Pin To Net: NetName=D+TOPB Pin=R113B-1
+Added Pin To Net: NetName=D+TOPB Pin=R114B-1
+Added Net: Name=D+TOPB
+Added Pin To Net: NetName=D-BOTA Pin=J101A-2
+Added Pin To Net: NetName=D-BOTA Pin=R119A-2
+Added Pin To Net: NetName=D-BOTA Pin=R120A-1
+Added Pin To Net: NetName=D-BOTA Pin=R121A-1
+Added Net: Name=D-BOTA
+Added Pin To Net: NetName=D-BOTB Pin=J101B-2
+Added Pin To Net: NetName=D-BOTB Pin=R119B-2
+Added Pin To Net: NetName=D-BOTB Pin=R120B-1
+Added Pin To Net: NetName=D-BOTB Pin=R121B-1
+Added Net: Name=D-BOTB
+Added Pin To Net: NetName=D-TOPA Pin=J100A-2
+Added Pin To Net: NetName=D-TOPA Pin=R114A-2
+Added Pin To Net: NetName=D-TOPA Pin=R115A-1
+Added Pin To Net: NetName=D-TOPA Pin=R116A-1
+Added Net: Name=D-TOPA
+Added Pin To Net: NetName=D-TOPB Pin=J100B-2
+Added Pin To Net: NetName=D-TOPB Pin=R114B-2
+Added Pin To Net: NetName=D-TOPB Pin=R115B-1
+Added Pin To Net: NetName=D-TOPB Pin=R116B-1
+Added Net: Name=D-TOPB
+Added Member To Class: ClassName=Main_PDSplitter Member=Component Logo_FH Logo
+Added Member To Class: ClassName=USB1 Member=Component R112A (R112) n.b.
+Added Member To Class: ClassName=USB2 Member=Component R112B (R112) n.b.
+Added Member To Class: ClassName=USB1 Member=Component R113A (R113) n.b.
+Added Member To Class: ClassName=USB2 Member=Component R113B (R113) n.b.
+Added Member To Class: ClassName=USB1 Member=Component R114A (R114) n.b.
+Added Member To Class: ClassName=USB2 Member=Component R114B (R114) n.b.
+Added Member To Class: ClassName=USB1 Member=Component R115A (R115) n.b.
+Added Member To Class: ClassName=USB2 Member=Component R115B (R115) n.b.
+Added Member To Class: ClassName=USB1 Member=Component R116A (R116) n.b.
+Added Member To Class: ClassName=USB2 Member=Component R116B (R116) n.b.
+Added Member To Class: ClassName=USB1 Member=Component R117A (R117) n.b.
+Added Member To Class: ClassName=USB2 Member=Component R117B (R117) n.b.
+Added Member To Class: ClassName=USB1 Member=Component R118A (R118) n.b.
+Added Member To Class: ClassName=USB2 Member=Component R118B (R118) n.b.
+Added Member To Class: ClassName=USB1 Member=Component R119A (R119) n.b.
+Added Member To Class: ClassName=USB2 Member=Component R119B (R119) n.b.
+Added Member To Class: ClassName=USB1 Member=Component R120A (R120) n.b.
+Added Member To Class: ClassName=USB2 Member=Component R120B (R120) n.b.
+Added Member To Class: ClassName=USB1 Member=Component R121A (R121) n.b.
+Added Member To Class: ClassName=USB2 Member=Component R121B (R121) n.b.

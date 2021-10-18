@@ -86,6 +86,10 @@ DItemRevisionGUID=
 DocumentPath=TelescopeHeater 17.10.2021 14-51-32.WAS
 DItemRevisionGUID=
 
+[GeneratedDocument4]
+DocumentPath=TelescopeHeater 18.10.2021 12-37-09.WAS
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -244,7 +248,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Samsung M262x 282x Series (USB001)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]

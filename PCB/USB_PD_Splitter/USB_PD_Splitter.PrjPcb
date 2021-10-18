@@ -60,7 +60,7 @@ DocumentUniqueId=WSKLPMHY
 [Document2]
 DocumentPath=Dual_USB-A.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=100
+AnnotateStartValue=0
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
@@ -93,6 +93,10 @@ DocumentUniqueId=LJBRRCVO
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for USB_PD_Splitter\Design Rule Check - USB_PD_Splitter.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=USB_PD_Splitter 18.10.2021 22-43-47.WAS
 DItemRevisionGUID=
 
 [Configuration1]
@@ -214,7 +218,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Samsung M262x 282x Series (USB001)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]

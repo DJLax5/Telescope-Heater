@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=R113A-2
+Removed Pin From Net: NetName=GND Pin=R113B-2
+Removed Pin From Net: NetName=GND Pin=R116A-2
+Removed Pin From Net: NetName=GND Pin=R116B-2
+Removed Pin From Net: NetName=GND Pin=R118A-2
+Removed Pin From Net: NetName=GND Pin=R118B-2
+Removed Pin From Net: NetName=GND Pin=R121A-2
+Removed Pin From Net: NetName=GND Pin=R121B-2
+Added Pin To Net: NetName=GND_AA Pin=R113A-2
+Added Pin To Net: NetName=GND_AB Pin=R113B-2
+Added Pin To Net: NetName=GND_AA Pin=R116A-2
+Added Pin To Net: NetName=GND_AB Pin=R116B-2
+Added Pin To Net: NetName=GND_BA Pin=R118A-2
+Added Pin To Net: NetName=GND_BB Pin=R118B-2
+Added Pin To Net: NetName=GND_BA Pin=R121A-2
+Added Pin To Net: NetName=GND_BB Pin=R121B-2

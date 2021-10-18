@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=J1 Old Footprint=PHOE-1755736-2_V New Footprint=ZY12PDN_BRPCB
+Change Component Comment : Designator=J1 Old Comment=1755736 New Comment=ZY12PDN
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=3203D238-B372-4A6E-BB4E-E8947E942413 New ItemGUID= Old RevisionGUID=4F8FB512-4369-4CA6-B835-12965AC86D75 New RevisionGUID=
+Change component parameters: Designator = "J1" ("J1"); Footprint = "PHOE-1755736-2_V"; UniqueID = "\NMISZXQD" ("\NMISZXQD")
