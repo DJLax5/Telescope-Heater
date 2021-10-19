@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\FHoch\Documents\Projekte\Telescope-Heater\PCB\USB_PD_Splitter\USB_PD_Splitter.PcbDoc
-Date     : 18.10.2021
-Time     : 23:14:10
+Date     : 19.10.2021
+Time     : 16:15:52
 
 Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
 Rule Violations :0
@@ -51,4 +51,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02

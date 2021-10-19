@@ -1,18 +1,18 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\FHoch\Documents\Projekte\Telescope-Heater\PCB\TelescopeHeater\TelescopeHeater.PcbDoc
-Date     : 18.10.2021
-Time     : 12:45:00
+Date     : 19.10.2021
+Time     : 16:05:06
 
 WARNING: Unplated multi-layer pad(s) detected
-   Pad Free-q(71.331mm,75.8mm) on Multi-Layer on Net HEATER_SW
-   Pad Free-q(71.331mm,74.017mm) on Multi-Layer on Net HEATER_SW
-   Pad Free-q(73.455mm,74.006mm) on Multi-Layer on Net HEATER_SW
-   Pad Free-q(73.455mm,75.8mm) on Multi-Layer on Net HEATER_SW
-   Pad Free-q(73.455mm,79.016mm) on Multi-Layer on Net HEATER_SW
-   Pad Free-q(71.331mm,79.006mm) on Multi-Layer on Net HEATER_SW
-   Pad Free-q(58.42mm,60.579mm) on Multi-Layer on Net GND
+   Pad Free-q(2808.307mil,2984.252mil) on Multi-Layer on Net HEATER_SW
+   Pad Free-q(2808.307mil,2914.072mil) on Multi-Layer on Net HEATER_SW
+   Pad Free-q(2891.929mil,2913.635mil) on Multi-Layer on Net HEATER_SW
+   Pad Free-q(2891.929mil,2984.252mil) on Multi-Layer on Net HEATER_SW
+   Pad Free-q(2891.941mil,3110.879mil) on Multi-Layer on Net HEATER_SW
+   Pad Free-q(2808.293mil,3110.461mil) on Multi-Layer on Net HEATER_SW
+   Pad Free-q(2300mil,2385mil) on Multi-Layer on Net GND
 
-Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -30,41 +30,40 @@ Rule Violations :6
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.127mm) (Max=20mm) (Preferred=0.381mm) (All)
+Processing Rule : Width Constraint (Min=5mil) (Max=787.402mil) (Preferred=15mil) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Minimum Annular Ring (Minimum=0.13mm) (All)
+Processing Rule : Minimum Annular Ring (Minimum=5.118mil) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=6.3mm) (All)
+Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=248.031mil) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=3.937mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=0.05mm) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (0.034mm < 0.05mm) Between Arc (58.547mm,56.185mm) on Top Overlay And Pad R11-2(58.039mm,56.896mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.034mm]
-Rule Violations :1
-
-Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Processing Rule : Silk To Solder Mask (Clearance=1.968mil) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 7
+Violations Detected : 6
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02

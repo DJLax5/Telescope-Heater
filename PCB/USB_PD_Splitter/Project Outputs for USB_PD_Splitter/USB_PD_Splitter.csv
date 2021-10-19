@@ -1,0 +1,28 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+"";"C1; C2; C3; C4";"CAPAE_5x5.4";"4";"Elko";"47u";
+"";"C5; C6; C24; C25; C26; C27; C28; C29";"0603_C";"8";"Keramikkondensator";"2.2p";
+"";"C7; C8";"CAPAE_4x5.4";"2";"Elko";"n.b";
+"";"C9";"CAPAE_4x5.4";"1";"Elko";"10µ";
+"";"C10; C11; C12; C13; C14; C15; C16; C17";"0603_C";"8";"Keramikkondensator";"n.b";
+"";"C18; C19";"0603_C";"2";"Keramikkondensator";"100n";
+"";"C20; C21; C22; C23";"0603_C";"4";"Keramikkondensator";"1n";
+"";"D1; D2";"MINIMELF-SOD80";"2";"Zener Diode";"";
+"";"F1; F2; F3; F4";"0603_Fuse";"4";"Fuse";"2A";
+"";"IC1; IC2; IC3; IC4";"SOT223";"4";"Fixedvoltage LDO; Pinassignment A";"";
+"";"IC5; IC6";"SOT23-8";"2";"OP / Comparator";"";
+"";"J1; J2; J3; J4";"61400416021";"4";"USB 2.0 Type A Receptacle WR-COM; Horizontal; THT";"";
+"";"J5";"ZY12PDN_BRPCB";"1";"";"";
+"";"L1; L2; L3; L4; L5; L6; L7; L8";"0603_L";"8";"0;15 Ohm 1A max
+100 Ohm @ 100MHz";"";
+"";"LED1";"0603_LED";"1";"LED";"";
+"";"LED2; LED3; LED4; LED5";"0603_LED";"4";"LED";"";
+"";"LED6";"0603_LED";"1";"LED";"";
+"";"Logo_FH1";"Logo FH";"1";"8x8 mm Logo Fabian Hochberg";"";
+"";"R1; R2; R3; R4; R6";"0603_R";"5";"R";"6.8k";
+"";"R5";"0603_R";"1";"R";"680";
+"";"R7; R10; R13; R15";"2512_R";"4";"R";"0.18";
+"";"R8; R9; R11; R12; R14; R16; R17; R18; R27; R28; R29; R30; R31; R32; R33; R34; R35; R36; R37; R38";"0603_R";"20";"R";"n.b.";
+"";"R19; R20; R39; R40";"0603_R";"4";"R";"100k";
+"";"R21; R22; R23; R24; R25; R26";"0603_R";"6";"R";"0";
+"";"R41; R42; R43; R44";"0603_R";"4";"R";"47k";
+"";"R45; R46; R47; R48";"0603_R";"4";"R";"33";

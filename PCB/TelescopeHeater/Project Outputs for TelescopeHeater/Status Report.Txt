@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [TelescopeHeater.PrjPcb]
+   Generated File[TelescopeHeater.TXT]
+   Generated File[TelescopeHeater.LDP]
+   Generated File[TelescopeHeater.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:07:46 On 19.10.2021
