@@ -1,12 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [USB_PD_Splitter.PrjPcb]
-   Generated File[USB_PD_Splitter.TXT]
-   Generated File[USB_PD_Splitter.LDP]
-   Generated File[USB_PD_Splitter.DRR]
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [USB_PD_Splitter.PrjPcb]
+   Generated File[Pick Place for USB_PD_Splitter.csv]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 16:22:45 On 19.10.2021
+Finished Output Generation At 11:22:28 On 23.10.2021

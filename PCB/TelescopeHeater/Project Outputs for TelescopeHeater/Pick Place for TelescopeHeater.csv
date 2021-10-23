@@ -1,0 +1,58 @@
+Altium Designer Pick and Place Locations
+C:\Users\FHoch\Documents\Projekte\Telescope-Heater\PCB\TelescopeHeater\Project Outputs for TelescopeHeater\Pick Place for TelescopeHeater.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       23.10.21
+Time:       11:20
+Revision:   c49cce387dc7e94a660c7ff1acdf9fdacfd47b3c
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"R4","n.b.","TopLayer","0603_R","2194,164","2936,757","270","R"
+"R7","n.b.","TopLayer","0603_R","2043,045","2906,670","180","R"
+"R3","n.b.","TopLayer","0603_R","2129,311","3026,218","0","R"
+"R6","n.b.","TopLayer","0603_R","2134,007","2935,683","270","R"
+"R5","n.b.","TopLayer","0603_R","2044,487","2966,120","180","R"
+"R10","0","TopLayer","0603_R","2562,847","2358,764","180","R"
+"D-","Testpad","TopLayer","Testpad_1mm","2157,952","3084,113","180",""
+"D+","Testpad","TopLayer","Testpad_1mm","2098,883","3081,965","90",""
+"Logo_FH1","Logo","TopLayer","Logo_FH","2834,131","2147,985","0","8x8 mm Logo Fabian Hochberg"
+"L1","100 Ohm @ 100MHz","TopLayer","0603_L","2315,000","2600,000","180","0,15 Ohm 1A max
+100 Ohm @ 100MHz"
+"L3","100 Ohm @ 100MHz","TopLayer","0603_L","2105,000","2365,000","180","0,15 Ohm 1A max
+100 Ohm @ 100MHz"
+"R11","0","TopLayer","0603_R","2315,000","2240,000","180","R"
+"L2","100 Ohm @ 100MHz","TopLayer","0603_L","2750,000","2395,000","180","0,15 Ohm 1A max
+100 Ohm @ 100MHz"
+"IC2","HTU31V","TopLayer","HTU31D/V-MFG","2300,000","2385,000","180","Analog Relative Humidity sensor with Temperature output"
+"D3","5.6V","TopLayer","MINIMELF-SOD80","2200,000","2505,000","0","Zener Diode"
+"T1","Si2302CDS","TopLayer","SOT23-3","2828,722","2590,342","0","N-Channel 20-V (D-S) MOSFET"
+"R16","33k","TopLayer","0603_R","2245,000","2081,995","270","R"
+"R17","47k","TopLayer","0603_R","2375,000","2051,995","180","R"
+"R9","100","TopLayer","0603_R","2715,000","2545,000","270","R"
+"R12","330k","TopLayer","0603_R","2150,000","2201,995","270","R"
+"R13","330k","TopLayer","0603_R","2465,000","2131,995","270","R"
+"R2","7.5","TopLayer","2512_R","2850,000","2942,500","90","R"
+"R15","47k","TopLayer","0603_R","2185,000","2081,995","90","R"
+"R14","22k","TopLayer","0603_R","2585,000","2131,995","270","R"
+"R1","10k","TopLayer","PIHER_N-6-R_Poti","2470,000","2975,000","180","Poti"
+"R8","330","TopLayer","0603_R","2499,842","2749,822","180","R"
+"IC3","?SN74LVC1G58DCKR?","TopLayer","SOT-363","2552,575","2258,790","90","Low-power configurable multiple function gate"
+"IC4","TLV9352","TopLayer","SOT23-8","2354,695","2143,766","0","OP / Comparator"
+"IC1","NE555DR","TopLayer","FP-D0008A-IPC_A","2559,842","2554,822","90","IC OSC SGL TIMER 100KHZ 8-SOIC"
+"D2","CUS357","TopLayer","SOD323","2340,000","2730,000","180","Schottky Diode"
+"D1","CUS357","TopLayer","SOD323","2335,000","2800,000","0","Schottky Diode"
+"C10","2.2p_50V","TopLayer","0603_C","2210,000","2201,995","270","Keramikkondensator"
+"C11","2.2p_50V","TopLayer","0603_C","2525,000","2131,995","270","Keramikkondensator"
+"C7","100n_50V","TopLayer","0603_C","2685,000","2335,000","180","Keramikkondensator"
+"C9","100n_50V","TopLayer","0603_C","2440,000","2241,995","180","Keramikkondensator"
+"C8","1n_50V","TopLayer","0603_C","2245,000","2290,000","0","Keramikkondensator"
+"C6","1n_50V","TopLayer","0603_C","2420,000","2385,000","90","Keramikkondensator"
+"C5","100n_50V","TopLayer","0603_C","2195,000","2395,000","270","Keramikkondensator"
+"C1","4.7n_50V","TopLayer","0603_C","2619,842","2749,822","0","Keramikkondensator"
+"C2","10n_50V","TopLayer","0603_C","2710,000","2705,000","90","Keramikkondensator"
+"C3","100n_50V","TopLayer","0603_C","2405,000","2635,000","270","Keramikkondensator"
+"C4","1u_16V","TopLayer","0603_C","2105,000","2425,000","0","Keramikkondensator"

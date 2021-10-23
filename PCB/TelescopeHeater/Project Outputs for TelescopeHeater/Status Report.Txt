@@ -1,12 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [TelescopeHeater.PrjPcb]
-   Generated File[TelescopeHeater.TXT]
-   Generated File[TelescopeHeater.LDP]
-   Generated File[TelescopeHeater.DRR]
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [TelescopeHeater.PrjPcb]
+   Generated File[Pick Place for TelescopeHeater.csv]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 16:07:46 On 19.10.2021
+Finished Output Generation At 11:20:14 On 23.10.2021

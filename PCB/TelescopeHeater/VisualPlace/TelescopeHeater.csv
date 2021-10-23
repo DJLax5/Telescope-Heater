@@ -1,0 +1,27 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";"";"C1";"0603_C";"1";"Keramikkondensator";"4.7n_50V";
+"";"C2";"0603_C";"1";"Keramikkondensator";"10n_50V";
+"";"C3; C5; C7; C9";"0603_C";"4";"Keramikkondensator";"100n_50V";
+"";"C4";"0603_C";"1";"Keramikkondensator";"1u_16V";
+"";"C6; C8";"0603_C";"2";"Keramikkondensator";"1n_50V";
+"";"C10; C11";"0603_C";"2";"Keramikkondensator";"2.2p_50V";
+"";"D1; D2";"SOD323";"2";"Schottky Diode";"CUS357";
+"";"D3";"MINIMELF-SOD80";"1";"Zener Diode";"5.6V";
+"";"D-; D+";"Testpad_1mm";"2";"";"Testpad";
+"";"IC1";"FP-D0008A-IPC_A";"1";"IC OSC SGL TIMER 100KHZ 8-SOIC";"NE555DR";
+"";"IC2";"HTU31D/V-MFG";"1";"Analog Relative Humidity sensor with Temperature output";"HTU31V";
+"";"IC3";"SOT-363";"1";"Low-power configurable multiple function gate";"?SN74LVC1G58DCKR?";
+"";"IC4";"SOT23-8";"1";"OP / Comparator";"TLV9352";
+"";"L1; L2; L3";"0603_L";"3";"0;15 Ohm 1A max
+100 Ohm @ 100MHz";"100 Ohm @ 100MHz";
+"";"Logo_FH1";"Logo FH";"1";"8x8 mm Logo Fabian Hochberg";"Logo";
+"";"R1";"PIHER_N-6-R_Poti";"1";"Poti";"10k";
+"";"R2";"2512_R";"1";"R";"7.5";
+"";"R3; R4; R5; R6; R7";"0603_R";"5";"R";"n.b.";
+"";"R8";"0603_R";"1";"R";"330";
+"";"R9";"0603_R";"1";"R";"100";
+"";"R10; R11";"0603_R";"2";"R";"0";
+"";"R12; R13";"0603_R";"2";"R";"330k";
+"";"R14";"0603_R";"1";"R";"22k";
+"";"R15; R17";"0603_R";"2";"R";"47k";
+"";"R16";"0603_R";"1";"R";"33k";
+"";"T1";"SOT23-3";"1";"N-Channel 20-V (D-S) MOSFET";"Si2302CDS";
