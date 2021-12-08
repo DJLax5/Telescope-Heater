@@ -48,7 +48,7 @@
  origin-fab-bottom=0.0 0.0 mm
  profile-bottom=0.000 0.000 85.087 45.847 mm
  envelope-art-btm=157.229 185.547 85.087 45.847 mm
- format=vpintrinsic
+ format=vpintrinsic (VisualPlace intrinsic)
 [Cache]
  crc-top=48DCCAFE
  silk-top=vptfg-USBPD_Splitter-48dccafe.png
@@ -58,8 +58,9 @@
  dpi-bottom=1000.0
 [Settings]
  sidebar=648
- zoom=750%
+ zoom=400%
  sortorder=IC R C L F T D LED OSC OPTO SW J
+ rotate=0
 [Restore]
  pos-top=Pick Place for USB_PD_Splitter.csv
  pos-bottom=Pick Place for USB_PD_Splitter.csv
@@ -111,3 +112,44 @@
  J2=2
  J3=2
  J4=2
+[Checkmarks]
+ IC5=1
+ IC6=1
+ R45=1
+ R46=1
+ R47=1
+ R48=1
+ R41=1
+ R42=1
+ R43=1
+ R44=1
+ R39=1
+ R40=1
+ R27=1
+ R28=1
+ R29=1
+ R30=1
+ R31=1
+ R32=1
+ R33=1
+ R34=1
+ R35=1
+ R36=1
+ R37=1
+ R38=1
+ C24=1
+ C25=1
+ C26=1
+ C27=1
+ C28=1
+ C29=1
+ C20=1
+ C21=1
+ C22=1
+ C23=1
+ C18=1
+ C19=1
+ L5=1
+ L6=1
+ L7=1
+ L8=1

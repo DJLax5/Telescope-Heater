@@ -17,8 +17,8 @@
  mask-top=ec820fd6
  copper-top=f68763a5
  drillfile=bd79755c
- pos-top=9ea7b6b
- bom=1161b6d2
+ pos-top=78f68f39
+ bom=f0d73c11
 [Config]
  gerber-rotate=0
  dpi-top=1000
@@ -30,8 +30,10 @@
  envelope-art-top=50.000 50.018 24.999 33.548 mm
  format=vpintrinsic (VisualPlace intrinsic)
 [Settings]
- zoom=max
+ zoom=1000%
  sortorder=IC R C L F T D LED OSC OPTO SW J
+ rotate=90
+ sidebar=646
 [Fiducials]
  fid1=1 1 0.1300 1.1130
 [Restore]
@@ -46,14 +48,11 @@
  Logo_FH1=0
  D-=0
  D+=0
-[Package-map]
- 0603_C=0603,0.0,0.0,0.0
- 0603_L=0603,0.0,0.0,0.0
- 0603_R=0603,0.0,0.0,0.0
- 2512_R=2512,0.0,0.0,0.0
- FP-D0008A-IPC_A=SOIC8,0.0,0.0,0.0
- HTU31D/V-MFG=WSON6p65-EP,0.0,0.0,0.0
- MINIMELF-SOD80=DO213AA,0.0,0.0,0.0
+ R3=0
+ R4=0
+ R5=0
+ R6=0
+ R7=0
 [Markers]
  size=2
  opacity=255
@@ -68,3 +67,36 @@
  crc-top=D4B3F648
  silk-top=vptfg-TelescopeHeater-d4b3f648.png
  dpi-top=1000.0
+[Checkmarks]
+ IC3=1
+ IC2=1
+ IC1=1
+ IC4=1
+ R10=1
+ R11=1
+ R9=1
+ R8=1
+ R14=1
+ R16=1
+ R15=1
+ R17=1
+ R12=1
+ R13=1
+ C10=1
+ C11=1
+ C6=1
+ C8=1
+ C1=1
+ C2=1
+ C3=1
+ C5=1
+ C7=1
+ C9=1
+ C4=1
+ L1=1
+ L2=1
+ L3=1
+ T1=1
+ D3=1
+ D1=1
+ D2=1
